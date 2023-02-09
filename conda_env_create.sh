@@ -1,0 +1,4 @@
+#!/bin/sh
+conda update conda
+
+conda env create -f environment.yml
